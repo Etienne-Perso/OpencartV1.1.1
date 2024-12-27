@@ -58,6 +58,9 @@ public class BaseClass {
 			}else if(os.equalsIgnoreCase("Mac")) {
 				
 				cap.setPlatform(Platform.MAC); 
+			}else if(os.equalsIgnoreCase("Linux")) {
+					
+				cap.setPlatform(Platform.LINUX); 
 				
 			}else {
 				System.out.println("No matching operating system");

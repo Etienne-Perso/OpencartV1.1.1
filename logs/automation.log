@@ -1,0 +1,23 @@
+14:26:08.0817 [main] INFO  testCases.TC001_Registration_Test - My test is starting....
+ 14:26:10.0058 [main] INFO  testCases.TC001_Registration_Test - Putting the data in the fields
+ 14:26:12.0031 [main] INFO  testCases.TC001_Registration_Test - Validating my test....
+ 14:26:12.0109 [main] INFO  testCases.TC001_Registration_Test - My test is succeeded
+ 14:26:12.0109 [main] INFO  testCases.TC001_Registration_Test - My test is finished Successfully
+ 14:26:15.0597 [main] INFO  testCases.TC002_Login_Test - ****  Starting TC002_Login_Test *****
+ 14:26:18.0290 [main] INFO  testCases.TC002_Login_Test - ****  Finished TC002_Login_Test  ****
+ 14:26:19.0892 [main] INFO  testCases.TC001_Registration_Test - My test is starting....
+ 14:28:47.0569 [main] INFO  testCases.TC001_Registration_Test - My test is starting....
+ 14:28:48.0814 [main] INFO  testCases.TC001_Registration_Test - Putting the data in the fields
+ 14:28:50.0852 [main] INFO  testCases.TC001_Registration_Test - Validating my test....
+ 14:28:50.0937 [main] INFO  testCases.TC001_Registration_Test - My test is succeeded
+ 14:28:50.0937 [main] INFO  testCases.TC001_Registration_Test - My test is finished Successfully
+ 14:28:55.0072 [main] INFO  testCases.TC002_Login_Test - ****  Starting TC002_Login_Test *****
+ 14:28:57.0930 [main] INFO  testCases.TC002_Login_Test - ****  Finished TC002_Login_Test  ****
+ 14:29:03.0984 [main] INFO  testCases.TC001_Registration_Test - My test is starting....
+ 14:29:05.0367 [main] INFO  testCases.TC001_Registration_Test - Putting the data in the fields
+ 14:29:07.0818 [main] INFO  testCases.TC001_Registration_Test - Validating my test....
+ 14:29:07.0884 [main] INFO  testCases.TC001_Registration_Test - My test is succeeded
+ 14:29:07.0885 [main] INFO  testCases.TC001_Registration_Test - My test is finished Successfully
+ 14:29:12.0952 [main] INFO  testCases.TC002_Login_Test - ****  Starting TC002_Login_Test *****
+ 14:29:15.0568 [main] INFO  testCases.TC002_Login_Test - ****  Finished TC002_Login_Test  ****
+ 
